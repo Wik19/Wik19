@@ -1,4 +1,4 @@
-# Hi there, I'm Marco W. Santoro! 🤖
+# Hello, I'm Marco W. Santoro
 
 I am a **Robotics Engineer** currently pursuing a Master's degree in **Intelligent and Unmanned Systems** at Poznań University of Technology. My work focuses on the intersection of custom hardware design, real-time embedded systems, and autonomous robotics.
 
@@ -32,7 +32,7 @@ I am a **Robotics Engineer** currently pursuing a Master's degree in **Intellige
 
 ### 🚀 Engineering Projects
 
-#### **[project-WAVe (B.Sc. Thesis)](https://github.com/Wik19/project-WAVe)**
+#### **[B.Sc. Thesis: project-WAVe](https://github.com/Wik19/project-WAVe)**
 *A custom wireless vibroacoustic measurement system designed for the **Flapper Nimble+** ornithopter.*
 
 <p align="center">
